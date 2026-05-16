@@ -1,8 +1,8 @@
-\# C++ Task Analysis
+# C++ Task Analysis
 
 
 
-\## What the code does
+## What the code does
 
 
 
@@ -26,7 +26,7 @@ When one thread stops, the shared 'running' flag is set to 'false' , which cause
 
 
 
-\## Typical Output
+## Typical Output
 
 
 
@@ -36,7 +36,7 @@ C1: 3 C2: 5
 
 
 
-\## Issues Found
+## Issues Found
 
 
 
@@ -56,7 +56,7 @@ C1: 3 C2: 5
 
 
 
-\## Fixes Applied
+## Fixes Applied
 
 
 
